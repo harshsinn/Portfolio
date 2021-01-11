@@ -35,17 +35,17 @@ navigation ul {
 	margin-top: 1rem;
 }
 navigation ul a:hover {
-	color: #ffe8d6 !important;
+	color: #fff !important;
 }
 navigation ul a {
 	margin: 15px;
 	font-family: sans-serif;
-	color: #FFF;
+	color: #ccc;
 	font-size: 14px;
 	padding-top: 20px !important;
 }
 .active {
-	color: #ffe8d6;
+	font-weight: bold;
 }
 .text-container p:nth-child(1) {
 	font-family: 'Amatic SC', cursive;
